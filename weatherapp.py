@@ -10,7 +10,7 @@ MY_CITY = data['city']
 print(data['city'])
  
 # Enter your API key here
-api_key = "63301fc60836eeeabd987a157522aa15"
+api_key = "Enter Your Api Key Here"
  
 
 base_url = "http://api.openweathermap.org/data/2.5/weather?"
